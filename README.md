@@ -4,17 +4,15 @@ Este repositório contém experimentos e implementações de modelos de classifi
 
 ## 📂 Estrutura do Projeto
 
-
+```
 spark_modelos_classificacao
 
-├── data/ # Dados de entrada (csv)
+├── dados
 
-├── notebooks/ # Notebooks com análises e testes
+├── notebook
 
-├── scripts/ # Scripts PySpark para treinamento e avaliação
-
-└── README.md # Este arquivo
-
+└── README.md 
+```
 
 ## ⚙️ Tecnologias Utilizadas
 
